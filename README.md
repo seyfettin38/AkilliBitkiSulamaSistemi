@@ -1,4 +1,3 @@
-# AkilliBitkiSulamaSistemi
 Akıllı Bitki Sulama Sistemi
 Proje Konusu
 Bu proje, toprak nem sensörleri kullanarak toprağın nem seviyesini ölçen ve belirlenen eşik değerin altına düştüğünde otomatik olarak sulama yapan bir IoT tabanlı akıllı bitki sulama sistemidir. Kullanıcıya sulama durumu hakkında Telegram üzerinden bildirim gönderilecektir.
